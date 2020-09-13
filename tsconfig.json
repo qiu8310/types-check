@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "lib": ["DOM", "ES2015"]
+  },
+  "include": [
+    "src",
+    "node_modules/b/extend.d.ts",
+  ],
+}

@@ -1,0 +1,7 @@
+{
+  "name": "types-check",
+  "dependencies": {
+    "typescript": "^4.0.2",
+    "vue": "^2.6.12"
+  }
+}
